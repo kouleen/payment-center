@@ -4,8 +4,8 @@ go 1.25.0
 
 require (
 	github.com/cloudwego/kitex v0.16.4
-	github.com/kouleen/common v0.0.99
-	github.com/kouleen/idl v0.0.82
+	github.com/kouleen/common v0.0.106
+	github.com/kouleen/idl v0.0.87
 )
 
 require (
